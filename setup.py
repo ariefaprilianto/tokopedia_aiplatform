@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='tokopedia_aiplatform',
-    version='0.1.3',
+    version='0.1.4',
     author='PT Tokopedia',
     author_email='engineering@tokopedia.com',
     description='Tokopedia AI Platform Package',
